@@ -1,0 +1,7 @@
+name: TeamChat-Plugin
+version: 1.0
+main: de.presti.opensource.teamchat.main.Main
+author: Presti
+commands:
+   tc:
+   teamchat:
